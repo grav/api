@@ -8,6 +8,6 @@ see also:
 
 ## Details
 
-Returns true if `o` is an instance of type `t`, false otherwise.
+Returns true if `c` is an instance of type `x`, false otherwise.
 
 ## Examples
